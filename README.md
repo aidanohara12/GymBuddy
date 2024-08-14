@@ -1,6 +1,11 @@
 # GymBuddy
 GymBuddy is an app that makes logging workouts and storing weight data easy for anyone to use from beginner to verteran lifter. This is supposed to be a simple app that gives the user the exact things that they want in a workout app. Using HealthKit I was able to get user data like past workouts and step totals. Using this aquired data I was able to put it into simple views to give the user easy accsess to all health targets that relate to the gym. This makes it super simple for a gym goer to store weight data and look at their health trends while they workout. Below is what the app looks like. 
 
+# Link
+If you want to download the app in the app store you can here!!
+
+https://apps.apple.com/us/app/gymbuddy-log-workouts-easy/id6599854344
+
 # Demo
 
 When you first sign in you will be greeted with the main view which is where all the different gyms the user goes to will be entered. It will look like this.
